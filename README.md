@@ -1,28 +1,31 @@
-# About me #
-- 👋 Hi, I’m itsoutchy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C# and to make music
-- I'm an animator
-- In my free time, I like to play games
+# itsoutchy
+Hey, thanks for coming here!
 
-I like game development, I have an itch.io page with some of my games <a href="https://itsoutchy2.itch.io/">here</a>
+Here are a few of my projects!
+<p>
+  <h2>ITSOUTCHY EXE</h2>
+  <img src="https://github.com/user-attachments/assets/d6e4697d-e332-4d84-9128-e6ce47277965" width=200 align="left">
+  ITSOUTCHY EXE is an indie animated film which details a long and complex journey of fighting against a rogue program which wants to take over everyone. Come join itsoutchy as he discovers more about the Solver Foundation’s goals to help save the world.
+  <br>
+  ______________________________________________________  
+  
+  [Watch it](https://youtu.be/mSapwq1sV9k)  
+  [Grab some sick wallpapers or BTS stuff](https://exe.itsoutchy.xyz/)
+</p>
 
-I'm aiming for a career in computer science
+#
+<p align="left">
+  <h2>Sticked</h2>
+  <img src="https://yt3.ggpht.com/ZHevy9ekmILFSnciO0Co2lHg00OVhbFAsWhucTORxHkYcid4m8nDA7BoL9AJ6KVU5wE-ZtvSrPo8Nhc=s1600-rw-nd-v1" width=200 align="left">
+Sticked is a now discontinued series about a few little stickfigures finding themselves in the weirdest of places, join black on his journey of uncovering more information about the wacky world he found himself in.
+<br>
+______________________________________________________  
 
-I'm self-taught
+[Watch it](https://www.youtube.com/playlist?list=PLiOtztQ-VJjPPO6PRfEjdQl7cAmuItnI9)
+</p>
 
-I make YouTube videos <a href="https://www.youtube.com/channel/UCzLor3TFa6b59AsfUZbaDyw">here</a>
+<br>
 
-I like to make art such as these:
-
-![Friday Night Funkin' Tabi outline trace](https://github.com/itsoutchy-projects/itsoutchy-projects/blob/main/Tabi%20outline.PNG)
-
-![Friday Night Funkin' Tabi art](https://preview.redd.it/rcrnfgmsoga91.jpg?width=640&crop=smart&auto=webp&s=7f7d10860d6c1814c96d7f29e9dcd2ba48146207)
-
-![me IRL daytime](https://user-images.githubusercontent.com/95544056/178121695-195f9abf-9846-4d70-9fd4-073904cdd69b.png)
-
-<!---
-itsoutchy-projects/itsoutchy-projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+#
+***
+And while you're here, would you mind maybe checking out some of my [repositories](https://github.com/itsoutchy-projects?tab=repositories)? I'd really appreciate it :)
