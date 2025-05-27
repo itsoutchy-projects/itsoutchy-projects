@@ -12,8 +12,14 @@ Here are a few of my projects!
   [Watch it](https://youtu.be/mSapwq1sV9k)  
   [Grab some sick wallpapers or BTS stuff](https://exe.itsoutchy.xyz/)
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-#
 <p align="left">
   <h2>Sticked</h2>
   <img src="https://yt3.ggpht.com/ZHevy9ekmILFSnciO0Co2lHg00OVhbFAsWhucTORxHkYcid4m8nDA7BoL9AJ6KVU5wE-ZtvSrPo8Nhc=s1600-rw-nd-v1" width=200 align="left">
@@ -25,7 +31,12 @@ ______________________________________________________
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-#
 ***
 And while you're here, would you mind maybe checking out some of my [repositories](https://github.com/itsoutchy-projects?tab=repositories)? I'd really appreciate it :)
