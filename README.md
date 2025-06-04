@@ -19,6 +19,7 @@ Here are a few of my projects!
 <br>
 <br>
 <br>
+<br>
 
 <p align="left">
   <h2>Sticked</h2>
