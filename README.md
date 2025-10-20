@@ -21,6 +21,7 @@ Here are a few of my projects!
 <br>
 <br>
 <br>
+<br>
 <div>
   <h2>ITSOUTCHY EXE - The Comic</h2>
   <img width="200" align="left" alt="ITSOUTCHY EXE - The Comic (poster)" src="https://github.com/user-attachments/assets/54c5f5b1-e811-4faf-b369-22c89a30998f" />
