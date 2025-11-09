@@ -30,7 +30,7 @@ Here are a few of my projects!
   ______________________________________________________  
   
   [Read it here](https://comic.itsoutchy.xyz/)  
-  [Or here](https://www.webtoons.com/p/community/en/u/itsoutchy) (psst.. the comic releases here on 25th October 2025 from 12:00 to 13:40 UTC)
+  [Or here](https://www.webtoons.com/p/community/en/u/itsoutchy)
 </div>
 <br>
 <br>
