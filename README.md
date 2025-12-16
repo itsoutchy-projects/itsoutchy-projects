@@ -30,7 +30,7 @@ Here are a few of my projects!
   ______________________________________________________  
   
   [Read it here](https://comic.itsoutchy.xyz/)  
-  [Or here](https://www.webtoons.com/p/community/en/u/itsoutchy)
+  [Or here](https://www.webtoons.com/en/canvas/itsoutchy-exe-the-comic/list?title_no=1096203)
 </div>
 <br>
 <br>
